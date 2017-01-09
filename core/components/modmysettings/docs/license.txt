@@ -1,0 +1,32 @@
+Changelog for miniShop2.
+
+1.0.0 pl
+==============
+Добавление и настройка технических страниц
+- search
+- Ошибка 404
+- Достпуп запрещен
+- Сайт временно недоступен
+- sitemap и сниппет pdositemap
+- robots
+
+Добавление чанков
+- gbl.body-end
+- gbl.body-start
+- gbl.footer
+- gbl.head
+- gbl.sidebar
+
+Добавление шаблонов
+- service для технических страниц
+- page общий
+
+Добавление приложений
+- pdoTools
+- MinifyX
+- modDevTools
+- Console
+- translit
+
+
+

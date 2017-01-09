@@ -1,0 +1,13 @@
+Changelog for mspQiwi.
+
+1.0.0 rc
+==============
+- Fix some errors
+- Format code style
+
+
+
+0.0.1 beta
+==============
+- Initial release.
+- Synchronizing with qiwi in 2 steps : get information by Qiwi and check this information from request to Qiwi with Soap.
